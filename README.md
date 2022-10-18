@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Collins.
+- 👋 Hi, I’m Collins Kipchumba.
 - 👀 I have intermediate experience in Angular, .NET Stack, SQL Server and Azure.
 - 🌱 I’m currently learning Express, Android (Kotlin), Electron, MySQL and Blender3D.
 - 💞️ I’m looking to collaborate on Angular and related NodeJS projects.
