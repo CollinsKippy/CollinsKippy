@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Collins Kipchumba.
-- 👀 I have intermediate experience in Angular, .NET Stack, SQL Server and Azure.
-- 🌱 I’m currently learning Express, Android (Kotlin), Electron, MySQL and Blender3D.
-- 💞️ I’m looking to collaborate on Angular and related NodeJS projects.
+- 👀 Intermediate experience in Angular, .NET Stack, SQL Server and Azure.
+- 🌱 Currently learning Express, Android (Kotlin), Electron, MySQL and Blender3D.
+- 💞️ Can collaborate on Angular and related NodeJS projects.
 - 📫 You can reach me via @KippyCollins (Twitter) and collins.kippy@outlook.com (Email, obviously :-)). 
 - 📫 Currently based in Nairobi, Kenya.
 
