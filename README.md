@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Collins.
 - 👀 I've worked with Angular, .NET Stack, SQL Server and Azure commercially.
 - 🌱 Currently learning Express, Android (Kotlin), Electron and Blender3D.
-- 💞️ Can collaborate on Angular and related NodeJS projects.
+- 💞️ Can collaborate on Angular and related NodeJS projects. Interested in Linux-based Deployments.
 - 📫 You can reach me via @KippyCollins (Twitter) and collins.kippy@outlook.com (Email, obviously :-)). 
 - 📫 Based in Nairobi, Kenya.
 
