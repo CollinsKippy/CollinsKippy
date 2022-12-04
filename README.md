@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Collins.
+- 👋 Hi, I’m Collins. My new JavaScript/TypeScript-focused GitHub account.
 - 👀 I've worked with Angular, .NET Stack, SQL Server and Azure commercially.
 - 🌱 Currently learning Android (Kotlin), Electron and Blender3D.
-- 💞️ Can collaborate on Angular and related NodeJS projects.
-- 📫 You can reach me via @KippyCollins (Twitter) and collins.kippy@outlook.com (Email, obviously :-)). 
+- 💞️ Can collaborate on Angular projects.
+- 📫 You can reach me via @KippyCollins (Twitter) and collins.kippy@outlook.com (Email, obviously :)). 
 - 🌞 Based in Nairobi, Kenya.
 
 <!---
