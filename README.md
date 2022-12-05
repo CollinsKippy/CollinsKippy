@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Collins. My new JavaScript/TypeScript-focused GitHub account.
+- 👋 Hi. This is my new JavaScript/TypeScript-focused GitHub account.
 - 👀 I've worked with Angular, .NET Stack, SQL Server and Azure commercially.
 - 🌱 Currently learning Android (Kotlin), Electron and Blender3D.
 - 💞️ Can collaborate on Angular projects.
