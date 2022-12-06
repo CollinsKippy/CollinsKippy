@@ -1,6 +1,6 @@
 - 👋 Hi. This is my JavaScript/TypeScript-focused GitHub account.
 
-- 👀 I've worked with Angular and .NET Stack.
+- 👀 I have experience with Angular and .NET Stack (MVC, Web API, WPF).
 
 - 📫 You can reach me via @KippyCollins (Twitter). 
 
