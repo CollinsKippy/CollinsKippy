@@ -1,6 +1,6 @@
 - 👋 Hi. This is my JavaScript/TypeScript-focused GitHub account.
 
-- 👀 I've worked with Angular, .NET Stack, SQL Server and Azure commercially.
+- 👀 I've worked with Angular and .NET Stack.
 
 - 📫 You can reach me via @KippyCollins (Twitter). 
 
