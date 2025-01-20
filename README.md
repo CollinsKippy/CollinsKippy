@@ -1,6 +1,6 @@
 - 👋 Hi. This is my JavaScript/TypeScript-focused GitHub account.
 
-- 🚉 I have experience with Angular and .NET Stack (MVC, Web API, WPF, SQL Server, Azure Deployment).
+- 🚉 I have experience with React, NextJS, Angular and .NET Stack (MVC, Web API, SQL Server, Azure Deployment).
 
 - 📫 You can reach me via @KippyCollins (Twitter). 
 
