@@ -2,8 +2,6 @@
 
 - 🚉 I have experience with React, NextJS, Angular and .NET Stack (MVC, Web API, SQL Server, Azure Deployment).
 
-- 📫 You can reach me via @CollinsKipDev (Twitter). 
-
 - 🌞 Based in Nairobi, Kenya.
 
 <!---
